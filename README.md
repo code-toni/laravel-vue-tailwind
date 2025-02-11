@@ -27,4 +27,9 @@ Setting up your Enviroment file .env
     DB_USERNAME=root // your database username
     DB_PASSWORD=password // your database password</code>
     '''
+    ```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 </li>
