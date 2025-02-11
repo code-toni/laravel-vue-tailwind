@@ -38,9 +38,6 @@ In this last step, we will run every command needed before jumping into building
 
 And congratulations! Now you have your Laravel and Vue setup!
 
-# Quick tutorial
-in this section I'll show you the best workflow for use this setup in its full potential:
-
 # Versioning 
 Laravel v11 <br/>
 Vue.js v3 <br/>
