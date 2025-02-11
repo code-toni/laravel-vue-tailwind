@@ -10,14 +10,16 @@ The core of the entire sistem is [Inertia.js]([url](https://inertiajs.com/)), wh
 
 #Installation
 After cloning the repository in your local enviroment, the installation process is quite simple:
-Installing all the composer adn node dependencies
+
+**Installing all the composer adn node dependencies**
 <li><code>composer install</code></li>
 <li><code>npm install</code></li>
 
-Setting up your Enviroment file .env
+**Setting up your Enviroment file .env**
 <li>First, create the file from the given example by Laravel <code>cp .env.example .env</code></li>
 <li>
     Fill your file with your setup. If you don't know how, this is a simple example of a base mysql database configuration:
+
     
     DB_CONNECTION=mysql         //your database connection
     DB_HOST=127.0.0.1           //your databse host, 
