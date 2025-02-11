@@ -38,6 +38,12 @@ In this last step, we will run every command needed before jumping into building
 
 And congratulations! Now you have your Laravel and Vue setup!
 
-# Quick tutorial
+# Quick tutorial
 in this section I'll show you the best workflow for use this setup in its full potential:
+
+# Versioning 
+Laravel 11
+Vue.js 3
+TailwindCSS 3 -> v4 is Avaiable!
+Inertia.js 1
 
