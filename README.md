@@ -42,8 +42,8 @@ And congratulations! Now you have your Laravel and Vue setup!
 in this section I'll show you the best workflow for use this setup in its full potential:
 
 # Versioning 
-Laravel 11
-Vue.js 3
-TailwindCSS 3 -> v4 is Avaiable!
-Inertia.js 1
+Laravel v11
+Vue.js v3
+TailwindCSS v3 -> v4 is Avaiable! <br/>
+Inertia.js v1
 
