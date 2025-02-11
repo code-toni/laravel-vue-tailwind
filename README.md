@@ -19,10 +19,9 @@ Setting up your Enviroment file .env
 <li>
     Fill your file with your setup. If you don't know how, this is a simple example of a base mysql database configuration:
     <code> B_CONNECTION=mysql  //your database type, in this case MYSQL <br/> DB_HOST=127.0.0.1  //always leave this<br/>DB_PORT=3306<br/>DB_DATABASE=db_name // your database name<br/>DB_USERNAME=root // your database username<br/>DB_PASSWORD=password // your database password</code>
-    B_CONNECTION=mysql  //your database type, in this case MYSQL 
-    DB_HOST=127.0.0.1  //always leave this
-    DB_PORT=3306
-    DB_DATABASE=db_name // your database name
-    DB_USERNAME=root // your database username
-    DB_PASSWORD=password // your database password</code>
+
+    ```python
+    def somma(a, b):
+        return a + b
+    ```
 </li>
