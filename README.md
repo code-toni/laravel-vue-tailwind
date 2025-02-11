@@ -7,3 +7,8 @@ The core of the entire sistem is [Inertia.js]([url](https://inertiajs.com/)), wh
 <li>PHP and Node.js (8.2 and v18 at least)</li>
 <li>Composer and npm</li>
 <li>git</li>
+
+#Installation
+After cloning the repository in your local enviroment, the installation process is quite simple:
+<li><code>composer install</code> | for install all the composer dependencies</li>
+<li><code>npm install</code> | for installing all the node dependencies</li>
